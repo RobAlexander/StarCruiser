@@ -1,3 +1,5 @@
+# StarCruiser — a roleplaying storygame of space adventure and panic fear
+
 ***Version 0.2.0, 3 August 2014 ***
 
 **Game Design, Writing, Graphic Design**
@@ -452,7 +454,7 @@ effects, however – Table 1 explains how a characters total points in
 psychic talents (including the 1 pt for Psychic Potential) leads to
 unpleasantness.
 
-[[]{#_Ref386082998 .anchor}]{#_Ref386083018 .anchor}Table 1 - Psychic
+Table 1 - Psychic
 Side Effects
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -636,12 +638,12 @@ of the time without a net positive modifier.
 Table 2 gives probabilities of success for common combinations of dice
 and difficulty. (‘-‘ means less than 1%).
 
-[]{#_Ref386360452 .anchor}Table 2 - Test Probabilities
+[]Table 2 - Test Probabilities
 
   ----------------------------------------------------
-  **Diff ►**   **1**   **2**   **3**   **4**   **5**
+  **Diff -->**   **1**   **2**   **3**   **4**   **5**
                                                
-  **Dice▼**                                    
+  **Dice**                                    
   ------------ ------- ------- ------- ------- -------
   **1**        50      8       1       -       -
 
@@ -751,7 +753,7 @@ for the +1/-1 die result) and no fallout (see later) is applied.
                                                                                                                                                                        
   4-6 Killed (just like that. No save)                                                                                                                                 
 
-  []{#_Ref351150062 .anchor}Table 3 - Effects of Fallout                                                                                                               
+  []Table 3 - Effects of Fallout                                                                                                               
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A character may receive help (or hindrance, should the dice roll badly)
@@ -1239,8 +1241,8 @@ Penalties for fallout effects:
 Fallout from losing a potentially harmful conflict is determined by
 rolling a D6 on Table 4.
 
-[[]{#_Ref352003619 .anchor}]{#_Ref352003631 .anchor}Table 4
-[]{#_Ref352003622 .anchor}- Fallout for Ships
+[[]]Table 4
+[]- Fallout for Ships
 
   ---------------------
   ***Ship Fallout***
